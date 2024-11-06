@@ -1,9 +1,10 @@
 // main.js
 // const { myfile, myFolder } = require("./myFileSystem");
 
-const mainAlgo =require('./algoTest')
+const mainAlgo =require('./algorithm/algoTest')
 
 mainAlgo();
+
 
 // queue
 
