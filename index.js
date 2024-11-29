@@ -2,9 +2,13 @@
 // const { myfile, myFolder } = require("./myFileSystem");
 
 const mainAlgo =require('./algorithm/algoTest')
+const mainDs = require("./dsa/dsTest");
 
-mainAlgo();
 
+// mainAlgo();
+
+
+mainDs();
 
 // queue
 

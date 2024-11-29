@@ -42,9 +42,12 @@ const mainAlgo = () => {
 
 // InsertionSort
 
-const newInsertionSort = new InsertionSort(arr);
+// const newInsertionSort = new InsertionSort(arr);
 // console.log(newInsertionSort.ascending());
-console.log(newInsertionSort.descending());
+// console.log(newInsertionSort.descending());
+
+
+
 
 
 
@@ -54,11 +57,30 @@ console.log(newInsertionSort.descending());
 //     arr[idx1]=arr[idx2];
 //     arr[idx1]=temp
 
-// }
-// console.log("initail",arr);
-// helperFn(arr, 1, 2);
 
-// console.log(arr)
+
+// }
+
+function merge(arr1,arr2){
+let result=[];
+let i=0;
+let j=0;
+
+// while(i<arr1.length && j<arr2.length){
+
+// if(arr[j]>arr2[])
+
+
+// }
+
+
+
+
+
+}
+
+
+
 
 };
 
